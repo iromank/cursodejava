@@ -70,6 +70,8 @@ switch(dia){
     break;
    default:
         System.err.println("dia no existe ese dia");
+        
+        System.out.println("por favor eliga otro opcion");
     break;
     
     
